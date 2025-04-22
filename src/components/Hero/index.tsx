@@ -54,7 +54,7 @@ const Hero = () => {
           <div className="w-full px-4">
             <div className="mx-auto max-w-[800px] text-center">
               <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                We specialize in crafting <br />
+                We specialize in crafting 
                 High-quality:{" "}
                 <div className="inline-flex flex-col h-[43px] w-[300px] relative">
                   {[
